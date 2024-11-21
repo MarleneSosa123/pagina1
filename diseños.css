@@ -1,0 +1,28 @@
+*{
+background-color: aqua;
+}
+
+.Titulo{
+background-color: blue;
+text-align: center;
+}
+
+.Titulo h1 {
+    background-color: blue;
+}
+
+.Titulo p {
+    background-color: blue;
+}
+
+.maqPesada {
+    color: beige;
+}
+
+.maqPesada h2 {
+    color: black;
+}
+
+.maqlijera {
+    text-align: center;
+}
